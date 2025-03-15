@@ -1,6 +1,6 @@
 # DeepSeek R1 满血版使用指南及7个可使用DeepSeek R1的网站推荐【2025年3月更新】
 
->更新时间: 2025-03-08
+>更新时间: 2025-03-16
 ---
 为了提升工作的效率与精准度，我整理并汇总了DeepSeek R1 满血版的使用指南以及推荐了7个适合使用该工具的网站，以供有需要的朋友们参考使用。
 
@@ -18,7 +18,7 @@ DeepSeek最近一段时间由于用户激增和外部攻击，一直处于不可
 
 在 [chat.lify.vip](https://chat.lify.vip)，你可以使用到满血版的DeepSeek R1。
 
-体验了一下，速度还挺快！不仅如此，你还能够使用GPT4、GPT o1、GPT o3 mini、Midjourney等等。它的好处是生态完善，不止有对话功能，还有AI助手、AI绘画、AI生成PPT、AI翻译等等。可以说功能非常多，满足你不同的需求。
+体验了一下，速度还挺快！不仅如此，你还能够使用GPT4、GPT o1、GPT o3 mini、Claude 3.7 Sonnet、Midjourney等等。它的好处是生态完善，不止有对话功能，还有AI助手、AI绘画、AI生成PPT、AI翻译等等。可以说功能非常多，满足你不同的需求。
 
 另外，如果你想进一步了解支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件等功能，可以访问[这个网站](https://chat.lify.vip)。
 
